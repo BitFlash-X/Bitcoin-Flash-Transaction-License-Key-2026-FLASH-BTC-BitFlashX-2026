@@ -8,7 +8,7 @@ BitFlashX is a professional Windows desktop software designed for sending Flash 
 🔁 Instant conversion : Your Bitcoin Flash balance can be converted at any time, subject to network conditions.
 This solution allows for total flexibility : you benefit from the speed of crypto, while maintaining direct access to your money in the real world. 
 
-2 - / Bitcoin (BTC) and Tether (USDT) can be traded, tracked, traced, and spent with full transparency and control on supported platforms such as Binance, (https://www.binance.com/) Coinbase, (https://www.coinbase.com/) KuCoin, (https://www.kucoin.com/) as well as on online services including payment gateways, betting, and gaming sites like Stake, (https://stake.com/) 1xBet, (https://1xbet.com/) and Bet365. (https://www.bet365.com/)
+2 - / Bitcoin (BTC) can be traded, tracked, traced, and spent with full transparency and control on supported platforms such as Binance, (https://www.binance.com/) Coinbase, (https://www.coinbase.com/) KuCoin, (https://www.kucoin.com/) as well as on online services including payment gateways, betting, and gaming sites like Stake, (https://stake.com/) 1xBet, (https://1xbet.com/) and Bet365. (https://www.bet365.com/)
 
 🔐 Device-locked license
 📊 Full transaction history
